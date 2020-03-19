@@ -11,6 +11,5 @@ public class Main {
         Bill bill = new Bill(custo);
         bill.addProduct(cafetiere, 1);
         bill.addProduct(tv, 1);
-
     }
 }

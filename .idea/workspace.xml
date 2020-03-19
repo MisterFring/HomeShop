@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97dc01ec-d668-4a6d-8472-445b020274ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/homeshop/RelayDeliveryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeshop/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeshop/DirectDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeshop/ExpressDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeshop/Fridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeshop/RelayDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeshop/TakeAwayDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeshop/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/homeshop/ExpressDeliveryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/homeshop/RelayDeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/homeshop/RelayDeliveryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeshop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeshop/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeshop/ExpressDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeshop/ExpressDelivery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeshop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeshop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeshop/RelayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeshop/RelayDelivery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ExpressDeliveryTest">
     <configuration name="HS" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="homeshop.Main" />
       <module name="HomeShop" />
@@ -68,6 +64,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExpressDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homeshop" />
+      <option name="MAIN_CLASS_NAME" value="homeshop.ExpressDeliveryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelayDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeshop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homeshop" />
+      <option name="MAIN_CLASS_NAME" value="homeshop.RelayDeliveryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExpressDeliveryTest" />
+        <item itemvalue="JUnit.RelayDeliveryTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -104,10 +136,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="231" y="163" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582897418700" />
-    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1583509762561">
+    <state x="660" y="291" key="#com.intellij.ide.util.MemberChooser" timestamp="1584627537749">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1583509762561" />
+    <state x="660" y="291" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584627537749" />
     <state x="504" y="292" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582897401544">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -116,13 +148,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="474" y="222" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582896916978" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584627958588">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584627958588" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584627958586">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584627958586" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584627958585">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584627958585" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584627958587">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584627958587" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1583706770697">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583706770697" />
     <state x="446" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582897697916">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="446" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1582897697916" />
-    <state x="499" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583509241091">
+    <state x="499" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584626871132">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="499" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1583509241091" />
+    <state x="499" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1584626871132" />
   </component>
 </project>
